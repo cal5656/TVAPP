@@ -11,6 +11,7 @@
 | APP名称                 | 版本        | 下载地址                                                     | 状态 | 备注                                                         |
 | ----------------------- | ----------- | ------------------------------------------------------------ | ---- | ------------------------------------------------------------ |
 | TVBox                   | 20251127    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/TVBox) | 🟢    | 空盒原版，分为白壳和黑壳版，具体进文件夹查看版本说明，需配置接口源 |
+| Kodi                   | 22.0    | [下载](https://mirrors.aliyun.com/xbmc/snapshots/android/arm/kodi-22.0-Piers_alpha2-armeabi-v7a.apk) | 🟢    | TV上最好的播放器,支持投屏,手机安装、悟空浏览器 直接投屏到Kodi,支持WebDAV [kodi教程](/wiki/kodi.md) |
 | 影视仓                  | v6.1.7      | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓-6.1.7-32位.apk) | 🟢    | 安卓6.0及以上，不支持纯血鸿蒙，需设置接口源，本仓库下方有分享 |
 | 影视仓V3                | v3.0.36     | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/影视仓/影视仓V3稳定版-3.0.36_兼容安卓4.apk) | 🟢    | V3版本兼容安卓4.4以下，家里电视或盒子是比较老的版本的系统可以安装 |
 | 月光宝盒Box             | 20251017    | [下载](https://github.com/youhunwl/TVAPP/raw/refs/heads/main/影视/月光宝盒/月光宝盒Box1017.apk) | 🟢    | 单仓版本，内置数据源，全接口AI过滤广告                       |
